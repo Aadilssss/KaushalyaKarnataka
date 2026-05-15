@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533144400361",
+    "project_id": "gen-lang-client-0995334222",
+    "storage_bucket": "gen-lang-client-0995334222.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533144400361:android:b8f649fe931cd0b682db78",
+        "android_client_info": {
+          "package_name": "com.kaushalyakarnataka.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533144400361-pg7bdvr16h9g03f0dto4393hdnvfe039.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBogdyFB3IwdWz71E1g43uKWaurJb6sj94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533144400361-pg7bdvr16h9g03f0dto4393hdnvfe039.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
